@@ -1,4 +1,5 @@
-#!/usr/bin/env python3
+#BONGOL KA JEN!
+# #!/usr/bin/env python3
 """
 PayrollPro (Python Edition) — Entry Point
 ============================================
